@@ -1,2 +1,2 @@
 # Data-Analysis-Projects
-Statistical Data Analaysis
+Statistical Data Analaysis Pojects
